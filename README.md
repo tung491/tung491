@@ -4,7 +4,7 @@ Hi, I'm Tung - a CS student in Vietnam
 
 ## My values
 🍏 Amateur's mindset and curiosity. <br>
-🤓 Shared understandeing and experiences. <br>
+🤓 Shared understanding and experiences. <br>
 🤠 Patient and consistent. <br>
 
 ## Get in touch:
