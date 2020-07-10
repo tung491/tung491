@@ -3,9 +3,9 @@
 Hi, I'm Tung - a CS student in Vietnam
 
 ## My values
-🍏 Amateur's mindset and curiosity
-🤓 Shared understandeing and experiences
-🤠 Patient and consistent
+🍏 Amateur's mindset and curiosity. <br>
+🤓 Shared understandeing and experiences. <br>
+🤠 Patient and consistent. <br>
 
 ## Get in touch:
 - Work email: tung.ds491@gmail.com
