@@ -2,7 +2,7 @@
 
 Hi, I'm Tung - a CS student in Vietnam
 
-![Tung491's github stats](https://github-readme-stats.vercel.app/api?username=tung491&theme=tokyonight&show_icons=true)
+![Tung491's github stats](https://github-readme-stats.vercel.app/api?username=tung491&theme=algolia&show_icons=true)
 
 ## My values
 🍏 Amateur's mindset and curiosity. <br>
