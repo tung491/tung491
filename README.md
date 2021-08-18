@@ -1,6 +1,6 @@
 # Tung Son Do - @tung491
 
-Hi, I'm Tung - a CS student in Vietnam
+Hi, I'm Tung - a loser, CS student in Vietnam
 
 ![Tung491's github stats](https://github-readme-stats.vercel.app/api?username=tung491&theme=algolia&show_icons=true)
 
